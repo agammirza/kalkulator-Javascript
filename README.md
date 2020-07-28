@@ -1,2 +1,2 @@
-Proyek Javascript CEB
-# kalkulator-Javascript
+# Proyek Javascript CEB - PROGATE
+Aplikasi kalkulator Berbasis Web Menggunakan Javascript
